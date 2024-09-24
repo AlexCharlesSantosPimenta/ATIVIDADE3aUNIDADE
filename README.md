@@ -1,2 +1,3 @@
 # ATIVIDADE3aUNIDADE
 ## 1 escreva um programa que recebe duas notas de um aluno, caucula a média e imprime se o aluno foi reprovado ou aprovado, considerando que a média é 7 OBS, para esse exercício deve usar uma função que vai receber as duas nota e exibir se foi aprovado ou reprovado
+## 2 escreva um programa que verifica se uma pessoa pode votar com base na idade. OBS. Crie uma função que recebe a idade e exiba ma saída do console "voto obrigatório" caso esteja entre 18 e 70 anos. "facultativo" caso a idade seja 16 ou 17 anos ou acima de 70 anos ou acima de 70 anos e "não votam" menores de 16 anos
